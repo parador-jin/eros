@@ -1,0 +1,231 @@
+# github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75
+## explicit
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53
+github.com/CloudyKit/fastprinter
+# github.com/CloudyKit/jet/v3 v3.0.0
+github.com/CloudyKit/jet/v3
+# github.com/CloudyKit/jet/v4 v4.1.0
+## explicit
+# github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398
+github.com/Shopify/goreferrer
+# github.com/andybalholm/brotli v1.0.1-0.20200619015827-c3da72aa01ed
+## explicit
+# github.com/aymerick/douceur v0.2.0
+github.com/aymerick/douceur/css
+# github.com/aymerick/raymond v2.0.3-0.20180322193309-b565731e1464+incompatible
+github.com/aymerick/raymond
+github.com/aymerick/raymond/ast
+github.com/aymerick/raymond/lexer
+github.com/aymerick/raymond/parser
+# github.com/betacraft/yaag v1.0.0
+## explicit
+# github.com/chris-ramon/douceur v0.2.0
+github.com/chris-ramon/douceur/parser
+# github.com/dchest/safefile v0.0.0-20151022103144-855e8d98f185
+## explicit
+# github.com/dgraph-io/badger/v2 v2.0.3
+## explicit
+# github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
+github.com/eknkc/amber
+github.com/eknkc/amber/parser
+# github.com/fatih/structs v1.1.0
+github.com/fatih/structs
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/go-xorm/xorm v0.7.9
+## explicit
+github.com/go-xorm/xorm
+# github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
+github.com/gobwas/httphead
+# github.com/gobwas/pool v0.2.0
+github.com/gobwas/pool
+github.com/gobwas/pool/internal/pmath
+github.com/gobwas/pool/pbufio
+github.com/gobwas/pool/pbytes
+# github.com/gobwas/ws v1.0.3
+github.com/gobwas/ws
+github.com/gobwas/ws/wsutil
+# github.com/gomodule/redigo v1.8.2
+## explicit
+github.com/gomodule/redigo/redis
+# github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
+## explicit
+# github.com/google/uuid v1.1.2-0.20200519141726-cb32006e483f
+## explicit
+# github.com/gorilla/css v1.0.0
+github.com/gorilla/css/scanner
+# github.com/gorilla/websocket v1.4.2
+github.com/gorilla/websocket
+# github.com/hashicorp/go-version v1.2.1
+## explicit
+# github.com/iris-contrib/blackfriday v2.0.0+incompatible
+github.com/iris-contrib/blackfriday
+# github.com/iris-contrib/go.uuid v2.0.0+incompatible
+github.com/iris-contrib/go.uuid
+# github.com/iris-contrib/httpexpect/v2 v2.0.5
+## explicit
+# github.com/iris-contrib/jade v1.1.4
+## explicit
+github.com/iris-contrib/jade
+# github.com/iris-contrib/pongo2 v0.0.1
+github.com/iris-contrib/pongo2
+# github.com/iris-contrib/schema v0.0.2
+## explicit
+github.com/iris-contrib/schema
+# github.com/json-iterator/go v1.1.10
+## explicit
+github.com/json-iterator/go
+# github.com/kardianos/govendor v1.0.9
+## explicit
+# github.com/kataras/blocks v0.0.2
+## explicit
+# github.com/kataras/golog v0.1.2
+## explicit
+github.com/kataras/golog
+# github.com/kataras/iris/v12 v12.1.8
+## explicit
+github.com/kataras/iris/v12
+github.com/kataras/iris/v12/cache
+github.com/kataras/iris/v12/cache/cfg
+github.com/kataras/iris/v12/cache/client
+github.com/kataras/iris/v12/cache/client/rule
+github.com/kataras/iris/v12/cache/entry
+github.com/kataras/iris/v12/cache/ruleset
+github.com/kataras/iris/v12/cache/uri
+github.com/kataras/iris/v12/context
+github.com/kataras/iris/v12/core/errgroup
+github.com/kataras/iris/v12/core/handlerconv
+github.com/kataras/iris/v12/core/host
+github.com/kataras/iris/v12/core/memstore
+github.com/kataras/iris/v12/core/netutil
+github.com/kataras/iris/v12/core/router
+github.com/kataras/iris/v12/hero
+github.com/kataras/iris/v12/hero/di
+github.com/kataras/iris/v12/i18n
+github.com/kataras/iris/v12/macro
+github.com/kataras/iris/v12/macro/handler
+github.com/kataras/iris/v12/macro/interpreter/ast
+github.com/kataras/iris/v12/macro/interpreter/lexer
+github.com/kataras/iris/v12/macro/interpreter/parser
+github.com/kataras/iris/v12/macro/interpreter/token
+github.com/kataras/iris/v12/middleware/basicauth
+github.com/kataras/iris/v12/middleware/logger
+github.com/kataras/iris/v12/middleware/recover
+github.com/kataras/iris/v12/mvc
+github.com/kataras/iris/v12/view
+github.com/kataras/iris/v12/websocket
+# github.com/kataras/neffos v0.0.16
+## explicit
+github.com/kataras/neffos
+github.com/kataras/neffos/gobwas
+github.com/kataras/neffos/gorilla
+github.com/kataras/neffos/stackexchange/nats
+github.com/kataras/neffos/stackexchange/redis
+# github.com/kataras/pio v0.0.10
+github.com/kataras/pio
+github.com/kataras/pio/terminal
+# github.com/kataras/sitemap v0.0.5
+github.com/kataras/sitemap
+# github.com/kataras/tunnel v0.0.1
+## explicit
+# github.com/klauspost/compress v1.10.11
+## explicit
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/gzip
+# github.com/mediocregopher/radix/v3 v3.5.2
+## explicit
+github.com/mediocregopher/radix/v3
+github.com/mediocregopher/radix/v3/internal/bytesutil
+github.com/mediocregopher/radix/v3/resp
+github.com/mediocregopher/radix/v3/resp/resp2
+github.com/mediocregopher/radix/v3/trace
+# github.com/microcosm-cc/bluemonday v1.0.4
+## explicit
+github.com/microcosm-cc/bluemonday
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+## explicit
+github.com/modern-go/reflect2
+# github.com/nats-io/jwt v0.3.2
+github.com/nats-io/jwt
+# github.com/nats-io/nats.go v1.9.2
+github.com/nats-io/nats.go
+github.com/nats-io/nats.go/encoders/builtin
+github.com/nats-io/nats.go/util
+# github.com/nats-io/nkeys v0.1.4
+github.com/nats-io/nkeys
+# github.com/nats-io/nuid v1.0.1
+github.com/nats-io/nuid
+# github.com/pkg/errors v0.9.1
+## explicit
+# github.com/ryanuber/columnize v2.1.0+incompatible
+github.com/ryanuber/columnize
+# github.com/schollz/closestmatch v2.1.0+incompatible
+github.com/schollz/closestmatch
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+## explicit
+github.com/shurcooL/sanitized_anchor_name
+# github.com/square/go-jose/v3 v3.0.0-20200630053402-0a67ce9b0693
+## explicit
+# github.com/vmihailenco/msgpack/v5 v5.0.0-beta.1
+## explicit
+# github.com/yosssi/ace v0.0.5
+## explicit
+# go.etcd.io/bbolt v1.3.5
+## explicit
+# golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
+## explicit
+golang.org/x/crypto/acme
+golang.org/x/crypto/acme/autocert
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/net v0.0.0-20200822124328-c89045814202
+## explicit
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/idna
+golang.org/x/net/publicsuffix
+# golang.org/x/sys v0.0.0-20200821140526-fda516888d29
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.3
+## explicit
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
+## explicit
+# golang.org/x/tools v0.0.0-20200818005847-188abfa75333
+## explicit
+# golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
+# google.golang.org/genproto v0.0.0-20200815001618-f69a88009b70
+## explicit
+# google.golang.org/grpc/examples v0.0.0-20200822010404-0e72e09474d6
+## explicit
+# google.golang.org/protobuf v1.25.0
+## explicit
+# gopkg.in/ini.v1 v1.60.0
+## explicit
+gopkg.in/ini.v1
+# gopkg.in/yaml.v2 v2.3.0
+## explicit
+# gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
+## explicit
+gopkg.in/yaml.v3
+# xorm.io/builder v0.3.6
+xorm.io/builder
+# xorm.io/core v0.7.2-0.20190928055935-90aeac8d08eb
+xorm.io/core
